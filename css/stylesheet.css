@@ -271,6 +271,11 @@ h3 {
 .mb {width: 96%; background: #33af33;}
 .mc {width: 98%; background: #4286f4;}
 
+.light_purple {font-family: 'Minecraft', sans-serif; color: #FF55FF;}
+.yellow {font-family: 'Minecraft', sans-serif; color: #FFFF55;}
+.aqua {font-family: 'Minecraft', sans-serif; color: #55FFFF;}
+
+
 .owner,
 .manager,
 .admin {
