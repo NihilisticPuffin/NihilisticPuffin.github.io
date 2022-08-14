@@ -289,6 +289,9 @@ h3 {
 
 .an {
 	width: 100%;
+	background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.35));
+	background-size: cover;
+	background-attachment: fixed;
 	padding: 100px 50px;
 }
 
