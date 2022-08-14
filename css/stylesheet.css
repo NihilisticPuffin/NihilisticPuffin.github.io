@@ -1,5 +1,9 @@
-/* Proudly created by BlexieKing */
-/* https://www.spigotmc.org/members/blexieking.168027 */
+@font-face {
+    font-family: 'Minecraft';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Minecraft'), url('../fonts/minecraft.woff') format('woff');
+}
 
 
 /* Main */
