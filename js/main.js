@@ -52,5 +52,5 @@ $(document).ready(()=>{
         $(".playercount").html("Server isn't online!");
       }
     });
-  }, 500);
+  }, 2000);
 });
