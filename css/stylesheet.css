@@ -110,7 +110,7 @@ h3 {
 	color: white;
 	display: flex;
 	justify-content: space-between;
-	padding: 0 30px;
+	padding: 5px 30px;
 	align-items: center;
 	z-index: 9;
 }
