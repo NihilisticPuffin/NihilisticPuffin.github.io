@@ -1,5 +1,3 @@
-// Do not mess with this file unless you know what you're doing :P
-
 $(document).on('click', 'a[href^="#"]', function (e) {
 	e.preventDefault();
 

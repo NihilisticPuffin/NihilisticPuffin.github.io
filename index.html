@@ -7,7 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="utf-8">
 
-
 	<!-- Favicon -->
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="favicon/apple-touch-icon-57x57.png" />
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="favicon/apple-touch-icon-114x114.png" />
@@ -47,26 +46,14 @@
 <body>
 	<header>
 		<div class="nav">
-			<ul class="nav-items" id="nav-items">
+			<div class="nav-items">
 				<a><li onclick="mobile()" class="icon fa fa-bars fa-2x"></li></a>
-				<a href="#main"><li class="h">
-					<div class="overlay"></div>
-					Home
-				</li></a>
-				<a href="#staff"><li class="h">
-					<div class="overlay"></div>
-					The Team
-				</li></a>
+				<a href="#main" class="material-bubble">Home</a>
+				<a href="#staff" class="material-bubble">Staff</a>
 				<div class="log"><img alt="Logo" class="logo" src="img/logo.png"></div>
-				<a href="javascript:alert('Donate Page NYI');"><li class="h">
-					<div class="overlay"></div>
-					Donate
-				</li></a>
-				<a href="#contact"><li class="h">
-					<div class="overlay"></div>
-					Contact Us
-				</li></a>
-			</ul>
+				<a href="javascript:alert('Donate Page NYI');" class="material-bubble">Donate</a>
+				<a href="#contact" class="material-bubble">Contact Us</a>
+			</div>
 			<div class="mnav" id="mnav">
 				<a href="#main"><li class="i">
 					Home
